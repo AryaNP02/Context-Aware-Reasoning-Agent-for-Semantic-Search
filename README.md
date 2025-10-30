@@ -9,19 +9,19 @@ This project demonstrates how to integrate reasoning-based agents with efficient
 
 ## **Key Features**
 
-### 🧠 **Agent-Oriented Query Processing**
+###  **Agent-Oriented Query Processing**
 Leverages **LangChain’s ReAct (Reasoning + Acting) agents** to break down user queries into interpretable reasoning steps, enabling structured multi-hop retrieval and response generation.
 
-### 📚 **Data Extraction & Preprocessing**
+###  **Data Extraction & Preprocessing**
 Automatically extracts textual data from documents (e.g., PDFs), performs tokenization, cleaning, and segmentation into retrievable chunks optimized for embedding generation.
 
-### 🔍 **Vector-Based Retrieval**
+### **Vector-Based Retrieval**
 Implements high-dimensional vector search using custom embeddings to efficiently locate relevant document chunks based on semantic similarity, rather than just keyword matching.
 
-### ⚙️ **Llama3 Language Model Integration**
+###  **Llama3 Language Model Integration**
 Uses **Llama3**, a high-performance large language model, to interpret natural language queries, refine search intents, and generate contextually accurate responses.
 
-### 🧩 **Custom Tools and Functions**
+### **Custom Tools and Functions**
 Provides extensibility for domain-specific retrieval tools—such as querying by attributes like entity type, age, health parameters, or metadata filters.
 
 
