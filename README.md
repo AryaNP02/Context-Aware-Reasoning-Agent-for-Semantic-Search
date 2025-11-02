@@ -2,7 +2,7 @@
 
 ## **Overview**
 
-**IntelliSearch** is an intelligent retrieval system that combines the capabilities of **LangChain ReAct agents**, **vector-based semantic search**, and the **Llama3 large language model** to deliver accurate and context-aware information retrieval.  
+The  retrieval system  combines the capabilities of **LangChain ReAct agents**, **vector-based semantic search**, and the **Llama3 large language model** to deliver accurate and context-aware information retrieval.  
 This project demonstrates how to integrate reasoning-based agents with efficient vector storage to achieve high-performance document understanding and querying.
 
 ---
